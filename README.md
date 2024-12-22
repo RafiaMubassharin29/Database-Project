@@ -1,7 +1,7 @@
 # Coffee Shop Website Database
 
 This project contains the SQL schema and demo data for a coffee shop website. The database is designed to support the website's features, such as displaying menu items, managing customer data, handling orders, and calculating revenue.
-The link is: 
+The link is:  https://rafiamubassharin29.github.io/Database-Project/
 ## Database Structure
 
 ### Tables
